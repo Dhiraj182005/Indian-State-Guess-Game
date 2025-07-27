@@ -4,7 +4,7 @@ A Python Turtle-based interactive geography game where users guess Indian States
 # 🇮🇳 Indian State Guess Game
 
 A fun and educational Python game built using the Turtle graphics library and Pandas. This game helps players learn the names and locations of Indian States and Union Territories on a map.
-
+![image alt](https://github.com/Dhiraj182005/Indian-State-Guess-Game/blob/4f2a29b9b773e5325046068de9cf80a5b111462d/game_ss.png)
 
 ## 🧠 Game Objective
 
